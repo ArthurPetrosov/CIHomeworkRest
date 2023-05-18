@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/657wp5r4x49q2pa5?svg=true)](https://ci.appveyor.com/project/ArthurPetrosov/cihomeworkrest)
+[![Build status](https://ci.appveyor.com/api/projects/status/w4ne1migb40fiafl?svg=true)](https://ci.appveyor.com/project/ArthurPetrosov/cihomeworkrest)
